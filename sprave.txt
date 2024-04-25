@@ -1,0 +1,29 @@
+Bench Press;1001;Razvoj prsa;29999
+Squat Rack;1002;Čučnjevi;24999
+Dumbbell Set;1003;Vježbe s bučicama;14999
+Treadmill;1004;Trčanje;79999
+Elliptical Machine;1005;Elipsoidna vježba;69999
+Rowing Machine;1006;Veslanje;34999
+Pull-up Bar;1007;Vježbe za leđa;4999
+Leg Press Machine;1008;Vježbe za noge;39999
+Ab Roller;1009;Vježbe za trbušnjake;1999
+Stationary Bike;1010;Vježbe na biciklu;34999
+Kettlebell Set;1011;Vježbe s kettlebellom;8999
+Smith Machine;1012;Višenamjenski trening;49999
+Battle Ropes;1013;Vježbe s užetom;2999
+Weight Bench;1014;Klupa za vježbanje;12999
+TRX Suspension Trainer;1015;Suspension trening;7999
+Stability Ball;1016;Vježbe za ravnotežu;2499
+Jump Rope;1017;Vježbe s konopcem;999
+Lat Pulldown Machine;1018;Vježbe za leđa;44999
+GHD Machine;1019;Vježbe za stražnjicu;19999
+Power Tower;1020;Višenamjenska sprava;14999
+Cable Crossover Machine;1021;Vježbe za gornji dio tijela;59999
+Hex Bar;1022;Vježbe za noge;7999
+Weighted Vest;1023;Otežani trening;3999
+Push-up Bars;1024;Vježbe za prsa;1499
+Boxing Bag;1025;Boksački trening;12999
+Grip Strengthener;1026;Jačanje stiska;999
+Medicine Ball;1027;Vježbe s loptom;3499
+Hyperextension Bench;1028;Vježbe za donji dio leđa;7999
+Inversion Table;1030;Istezanje kralježnice;14999

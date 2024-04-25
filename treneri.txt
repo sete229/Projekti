@@ -1,0 +1,41 @@
+Ana Horvat;2001;5000;Kondicijski trening
+Ivan Kovač;2002;5500;Bodybuilding
+Jelena Petrović;2003;4800;Pilates
+Marko Novak;2004;5200;Snaga i izdržljivost
+Petra Horvat;2005;4900;Jogging
+Nikola Kovačević;2006;5300;Fleksibilnost i istezanje
+Tamara Babić;2007;5100;Kardio trening
+Stjepan Tomić;2008;6000;CrossFit
+Martina Vuković;2009;4700;Yoga
+Filip Horvat;2010;5400;Brzinski trening
+Dunja Jurić;2011;5600;Plivanje
+Ante Knežević;2012;5200;Vježbe tjelesne težine
+Ivana Šimić;2013;5000;Biciklizam
+Luka Marković;2014;5800;Kickboxing
+Elena Matić;2015;5100;Plesna aerobika
+Josip Perić;2016;4900;Pilates
+Marina Jovanović;2017;5200;Funkcionalni trening
+Stipe Barić;2018;5400;CrossFit
+Tina Šimić;2019;4800;Yoga
+Mario Kovačić;2020;5500;Bodyweight vježbe
+Ivana Radić;2021;5000;HIIT trening
+Robert Lončar;2022;5300;Snaga i kondicija
+Ana Marić;2023;4800;Jogging
+Igor Horvat;2024;5200;Kettlebell trening
+Tea Matić;2025;5100;Kardio kickboxing
+Bruno Kovač;2026;5600;Plyometrija
+Lea Barić;2027;5000;Cardio dance
+Ivan Vuković;2028;5400;Street workout
+Lucija Perić;2029;4900;Functional fitness
+Davor Jovanović;2030;5300;Agilnost i brzina
+Mia Radić;2031;5000;Core stabilnost
+Antonio Knežević;2032;5500;Powerlifting
+Ema Šimić;2033;4900;Flexibility training
+Dino Marković;2034;5200;Tabata trening
+Elena Perić;2035;5100;Boxing6
+Ana Kovač;2037;5000;TRX trening
+Marko Barić;2038;5600;Athletic conditioning
+Tina Radić;2039;4800;Zumba fitness
+Igor Jurić;2040;5200;Martial arts conditioning
+matija stepancic;7953;70000;crossbox
+Marko Separovic;2274;80000;yoga
